@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .logo {
+    filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(306deg)
+      brightness(103%) contrast(101%);
+  }
+}

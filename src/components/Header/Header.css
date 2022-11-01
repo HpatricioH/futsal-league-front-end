@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .header__link {
+  @apply hover:underline hover:underline-offset-4 hover:decoration-[#005DB2] font-semibold;
+  }
+}

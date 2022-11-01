@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .card__subtitle {
+  @apply text-white font-bold capitalize;
+  }
+
+  .card__subtitle--body {
+    @apply font-normal capitalize text-[#D8FF68] ml-2;
+  }
+}

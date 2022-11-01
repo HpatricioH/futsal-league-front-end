@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .form__input {
+    @apply shadow appearance-none border rounded-lg w-full py-2 px-3 text-gray-700 leading-tight mb-4;
+  }
+
+  .form__label {
+    @apply block text-[#6b7290] text-lg font-semibold mb-3;
+  }
+}
