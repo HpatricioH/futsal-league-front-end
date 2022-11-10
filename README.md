@@ -1,7 +1,7 @@
 # Futsal League Application
 
 Futsal League app is a React application that was built for the last project for my BrainStation bootcamp.
-This a full-stack application created in two repositories for the [front-end](https://github.com/HpatricioH/futsal-league-client-side) and [back-end](https://github.com/HpatricioH/futsal-league-server-side).
+This a full-stack application created in two repositories for the [front-end](https://github.com/HpatricioH/futsal-league-front-end) and [back-end](https://github.com/HpatricioH/futsal-league-back-end).
 
 This project was presented in the BrainStation's demo day. You can access the video presentation on the [BrainStation's Graduates](https://brainstation.io/hiring-brainstation-graduates) page, please search for Patricio Huerta under Web Development.
 
@@ -51,7 +51,7 @@ Admin User should be able to:
 
 ### **Links**
 
-- Front-End URL: [Front-End Repository](https://github.com/HpatricioH/futsal-league-client-side)
+- Back-End URL: [Back-End Repository](https://github.com/HpatricioH/futsal-league-back-end)
 - Live Site URL: [Coming Soon](https://your-live-site-url.com)
 
 ## My process
