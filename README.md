@@ -52,7 +52,7 @@ Admin User should be able to:
 ### **Links**
 
 - Back-End URL: [Back-End Repository](https://github.com/HpatricioH/futsal-league-back-end)
-- Live Site URL: [Coming Soon](https://your-live-site-url.com)
+- Live Site URL: [Premier League Futsal](https://kwfutsalleague.netlify.app/)
 
 ## My process
 
